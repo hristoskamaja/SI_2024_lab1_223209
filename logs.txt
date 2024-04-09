@@ -1,0 +1,36 @@
+C:\Users\hp\SI_2024_lab1_223209>git log
+commit 18e2dc7513dffb694cb5811cff9d7963a69d2863 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Maja Hristoska <majahristoska@hotmail.com>
+Date:   Tue Apr 9 19:50:45 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 431c489f5bed2273204716a8f80ae4b61e5e50aa
+Author: Maja Hristoska <majahristoska@hotmail.com>
+Date:   Tue Apr 9 19:47:40 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 64d91862cfe739fddcf62ec0493b5542c0b2e385 (origin/bug1, bug1)
+Author: Maja Hristoska <majahristoska@hotmail.com>
+Date:   Tue Apr 9 19:49:42 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit cff03959cee9123f9eb8229072d0335f75b93e04
+Author: Maja Hristoska <majahristoska@hotmail.com>
+Date:   Tue Apr 9 19:46:52 2024 +0200
+
+    Fix wrong condition in filterOddLenghtStrings
+
+commit 5181797a78007d98a3cae68bba8f3e5093e2dfc3
+Author: Maja Hristoska <majahristoska@hotmail.com>
+Date:   Tue Apr 9 19:45:24 2024 +0200
+
+    Add starter code
+
+commit ae184d242528001f367215793fa495f7113dac31
+Author: Maja Hristoska <majahristoska@hotmail.com>
+Date:   Tue Apr 9 19:44:37 2024 +0200
+
+    Initial commit
